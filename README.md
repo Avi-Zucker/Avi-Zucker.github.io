@@ -1,6 +1,4 @@
-# Avi Zucker
-
-Welcome to my website
+# Welcome to my website
 
 Hi my name is Avi Zucker, I'm first year M.Sc student in the Physics department.
 Here you can find my assignments.
