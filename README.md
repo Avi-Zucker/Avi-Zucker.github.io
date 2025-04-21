@@ -2,8 +2,7 @@
 
 Hi my name is Avi Zucker, I live in Jerusalem and I'm first year M.Sc student in the Physics department.
 
-Here you can find my assignments.
-
+[Here you can find my assignments.](https://github.com/Avi-Zucker/python-course-assignments)
 <img src="pic.png" alt="placeholder" width="30%" height="30%">
 
 
